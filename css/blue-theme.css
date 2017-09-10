@@ -1,0 +1,37 @@
+/* Start Blue Theme */
+
+/* Navbar */
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover,
+.carousel-indicators .active,
+.option-box .gear-check,
+.option-box .color-option ul li
+{
+  background-color: #2196f3;
+}
+
+.navbar-inverse .navbar-brand span,
+.about h1 span,
+.testmonial span,
+.footer h3,
+.footer .copyright span
+{
+  color: #2196f3;
+}
+
+.option-box .color-option,
+.testmonial .carousel-indicators li.active
+{
+  border: 3px solid #2196f3;
+}
+
+/* Dropdown Menu */
+.dropdown-menu
+{
+  border-top: 3px solid #2196f3;
+}
+
+/* End Blue Theme */
